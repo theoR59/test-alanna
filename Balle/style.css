@@ -1,0 +1,16 @@
+.card{
+    padding:1rem;
+    margin:1rem;
+}
+
+.invalid{
+    border: 2px solid red;
+}
+
+.unvisible{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
